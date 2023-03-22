@@ -1,0 +1,22 @@
+= AOP - Aspect Oriented Programming
+
+Theoretics:
+
+image::images/img.png[]
+
+== Terminologies
+
+'''
+
+- Aspect
+- Join point
+- Advice (@Before, @After)
+- Pointcut
+- Target Object
+- AOP Proxy
+- Weaving
+
+'''
+
+== Result
+
